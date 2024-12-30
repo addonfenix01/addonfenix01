@@ -3,7 +3,7 @@
 
 
 <channel>
-<name>[B][COLOR red] =======[/COLOR] [COLOR orange] Sejam Bem Vindos ao AddonFenix entretenimento para os usuários, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e bom divertimento. [B][COLOR red] ======= [/COLOR][/B]</name>
+<name>[B][COLOR yellow] =======[/COLOR] [COLOR orange] Sejam Bem Vindos ao AddonFenix entretenimento para os usuários, lembrando que o conteúdo é pego na internet então pode ser que algumas opções podem não funcionar,Obrigado e bom divertimento. [B][COLOR yellow ======= [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fanart_202411/Fanart.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart_202411/Fanart.jpg</fanart>
 <info>[COLOR red] [COLOR blue] Sejam  Bem vindos ao Addon Fenix [/COLOR]</info>
@@ -11,16 +11,9 @@
 </channel>
 
 
-<channel>
-<name>[B][COLOR red]TV ADDON FENIX - 2024[/COLOR] [COLOR orange] PT/IN [/COLOR][/B]</name>
-<thumbnail>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</thumbnail>
-<fanart>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</fanart>
-<info>[COLOR red] [COLOR red] Bem vindo ao addon Fenix Tv 2024[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/addonfenix01/addonfenix01/refs/heads/main/TVADDONFENIX.XML</externallink>
-</channel>
 
 <channel>
-<name>[B][COLOR red]FILMES ADDON FENIX - 2024[/COLOR] [COLOR orange] PT/IN [/COLOR][/B]</name>
+<name>[B][COLOR blue]FILMES ADDON FENIX - 2024[/COLOR] [COLOR green] PT/IN [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</fanart>
 <info>[COLOR red] [COLOR red] Bem vindo ao addon Fenix Filmes 2024[/COLOR]</info>
@@ -28,11 +21,19 @@
 </channel>
 
 <channel>
-<name>[B][COLOR red]SERIES ADDON FENIX - 2024[/COLOR] [COLOR orange] PT/IN [/COLOR][/B]</name>
+<name>[B][COLOR green]SERIES ADDON FENIX - 2024[/COLOR] [COLOR blue] PT/IN [/COLOR][/B]</name>
 <thumbnail>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</thumbnail>
 <fanart>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</fanart>
 <info>[COLOR red] [COLOR purple] Bem vindo ao addon Series Addon Fenix 2024[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/addonfenix01/addonfenix01/refs/heads/main/SERIESADDONFENIX2024.XML</externallink>
+</channel>
+
+<channel>
+<name>[B][COLORblue]TV ADDON FENIX - 2024[/COLOR] [COLOR green] PT/IN [/COLOR][/B]</name>
+<thumbnail>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</thumbnail>
+<fanart>https://archive.org/download/fanart-4_202412/Fanart%20%284%29.jpg</fanart>
+<info>[COLOR red] [COLOR red] Bem vindo ao addon Fenix Tv 2024[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/addonfenix01/addonfenix01/refs/heads/main/TVADDONFENIX.XML</externallink>
 </channel>
 
 
